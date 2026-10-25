@@ -1,0 +1,7 @@
+name: holowknight-anarchy-plugin
+main: org.holowknight.HollowKnightsz
+version: 1.0.0
+commands:
+   suicide:
+     description: trans life matter
+     usage: /suicide
