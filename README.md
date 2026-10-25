@@ -1,0 +1,3 @@
+nothing to see here... 
+- command: /suicide
+- just that
